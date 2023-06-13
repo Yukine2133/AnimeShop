@@ -1,0 +1,51 @@
+[
+  {
+    "id": "1",
+    "price": 24.99,
+    "img": "https://mmv2api.s3.us-east-2.amazonaws.com/products/images/gg%20(34).jpg",
+    "name": "Naruto Sakura Duo PSD Sports Bra",
+    "amount": 1
+  },
+  {
+    "id": "2",
+    "price": 14.99,
+    "img": "https://mmv2api.s3.us-east-2.amazonaws.com/products/thumbs/untitled--57.jpg",
+    "name": "Demon Slayer Logo Ceramic Cappuccino Mug",
+    "amount": 1
+  },
+  {
+    "id": "3",
+    "price": 24.99,
+    "img": "https://mmv2api.s3.us-east-2.amazonaws.com/products/images/23-6.jpg",
+    "name": "Sailor Moon 500 Piece Group Puzzle",
+    "amount": 1
+  },
+  {
+    "id": "4",
+    "price": 16.99,
+    "img": "https://mmv2api.s3.us-east-2.amazonaws.com/products/images/wqf.jpg",
+    "name": "Attack on Titan Mikasa Ackerman with Swords Funko Pop! Vinyl Figure",
+    "amount": 1
+  },
+  {
+    "id": "5",
+    "price": 27.99,
+    "img": "https://mmv2api.s3.us-east-2.amazonaws.com/products/images/IMG_7603.jpg",
+    "name": "Demon Slayer Tanjiro & Nezuko T-Shirt",
+    "amount": 1
+  },
+  {
+    "id": "6",
+    "price": 7.99,
+    "img": "https://mmv2api.s3.us-east-2.amazonaws.com/products/images/_MG_8103.jpg",
+    "name": "My Hero Academia Deku 3D Foam Magnet",
+    "amount": 1
+  },
+  {
+    "id": "7",
+    "price": 29.99,
+    "img": "https://mmv2api.s3.us-east-2.amazonaws.com/products/images/0013967_sailor-moon-luna-cosplay-hat.jpeg",
+    "name": "Sailor Moon Luna Cosplay Cap with Ears",
+    "amount": 1
+  }
+]
